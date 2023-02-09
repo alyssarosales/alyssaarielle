@@ -2,7 +2,7 @@
 ##### I'm Alyssa.
 - 🔭 I’m currently working on my data analysis portforlio by doing some fun projects!
 - 🌱 I’m currently expanding my knowledge of natural language processing and finding creative ways to extract meaning from data.
-- 📫 How to reach me: [linkedin @alyssaarosales](www.linkedin.com/in/alyssaarosales)
+- 📫 How to reach me: [linkedin @alyssaarosales](https://www.linkedin.com/in/alyssaarosales)
 - 😄 Pronouns: she/her
 
 <h3 align="left">Languages and Tools:</h3>
